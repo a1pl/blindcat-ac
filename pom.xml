@@ -6,6 +6,16 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>blindcat</name>
 	<description>wannabe watchdog</description>
+	<licenses>
+		<license>
+			<name>Business Source License 1.1</name>
+			<url>https://mariadb.com/bsl11/</url>
+			<distribution>repo</distribution>
+			<comments>Change License: AGPL-3.0. Each version converts to the Change
+				License on its fourth anniversary of first distribution. See the
+				LICENSE file in the project root for full terms.</comments>
+		</license>
+	</licenses>
 	<repositories>
 		<repository>
 			<id>hpfxd-repo</id>
