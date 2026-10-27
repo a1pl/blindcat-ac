@@ -1,0 +1,7 @@
+# Build output
+target/
+*.class
+
+# OS / editor junk
+.DS_Store
+*.iml
