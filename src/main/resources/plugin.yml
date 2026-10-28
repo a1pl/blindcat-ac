@@ -1,7 +1,7 @@
 name: blindcat
 version: 1.0
-description: 2020-era Watchdog recreation built on old NoCheat
-author: Evenprime
+description: wannabe watchdog
+author: Evenprime, sunsuke, unleg1t, asofold, Araykal
 softdepend: [ProtocolLib]
 
 main: cc.co.evenprime.bukkit.nocheat.NoCheat
